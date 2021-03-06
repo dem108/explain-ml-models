@@ -12,7 +12,7 @@ Then,
 
 ```bash
 conda create -n explain_ml python=3.6.*
-conda activate explain.ml
+conda activate explain_ml
 pip install -r requirements.txt
 ```
 
