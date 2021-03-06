@@ -1,3 +1,4 @@
 .azureml
 .vscode
+.venv
 pythonenv*
