@@ -7,9 +7,9 @@ from azureml.core.compute import ComputeTarget, AmlCompute, AksCompute
 # setup argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--subscription-id", type=str, default=None)
-parser.add_argument("--workspace-name", type=str, default="default")
-parser.add_argument("--resource-group", type=str, default="azureml-template")
-parser.add_argument("--location", type=str, default="eastus")
+parser.add_argument("--workspace-name", type=str, default="explain-ml-ws")
+parser.add_argument("--resource-group", type=str, default="explain-ml-ws-rg")
+parser.add_argument("--location", type=str, default="koreacentral")
 args = parser.parse_args()
 
 # define aml compute target(s) to create

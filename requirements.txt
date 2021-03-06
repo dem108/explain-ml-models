@@ -1,5 +1,14 @@
 azureml-core>=1.15.0
 azureml-dataprep
 azureml-mlflow
+azureml-widgets
+azureml-interpret
+
 papermill
 black
+
+pandas
+lightgbm
+matplotlib
+scikit-learn
+jupyter
