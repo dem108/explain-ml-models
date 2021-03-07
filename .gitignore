@@ -6,3 +6,5 @@ pythonenv*
 # AML config files
 config.json
  
+# data
+notebooks/selected/data

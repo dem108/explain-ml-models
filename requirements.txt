@@ -20,7 +20,8 @@ lightgbm
 
 # explain
 interpret
-interpret-community
+interpret-community==0.16.*
+azureml-interpret==1.23.0
 raiwidgets
 
 # lime
