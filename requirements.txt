@@ -1,22 +1,29 @@
+# Azure ML
 azureml-core>=1.15.0
 azureml-dataprep
 azureml-mlflow
 azureml-widgets
 
+# test
 papermill
 black
 
+# basic
 pandas
-lightgbm
 matplotlib
 graphviz
 scikit-learn
 jupyter
 
-lime
-dash
-dash_cytoscape
-# gevent
+# algos
+lightgbm
 
+# explain
+interpret
 interpret-community
 raiwidgets
+
+# lime
+# dash
+# dash_cytoscape
+
