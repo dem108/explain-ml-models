@@ -25,3 +25,9 @@ jupyter nbextension enable azureml.widgets --user --py
 ipython kernel install --user --name explain_ml --display-name "Python (explain_ml)"
 
 ```
+
+Some require installing libraries:
+
+```bash
+sudo apt-get install graphviz
+```

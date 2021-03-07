@@ -9,5 +9,14 @@ black
 pandas
 lightgbm
 matplotlib
+graphviz
 scikit-learn
 jupyter
+
+lime
+dash
+dash_cytoscape
+# gevent
+
+interpret-community
+raiwidgets

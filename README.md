@@ -20,4 +20,8 @@ This repo tries some approaches to explain machine learning models.
 
 * [AzureML Template](https://github.com/Azure/azureml-template)
 
+* [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets)
+
 * [Blackbox model explanation example](https://github.com/interpretml/interpret/blob/develop/examples/python/notebooks/Explaining%20Blackbox%20Classifiers.ipynb)
+
+* [LIME: How to Interpret Machine Learning Models With Python](https://www.betterdatascience.com/lime/)
